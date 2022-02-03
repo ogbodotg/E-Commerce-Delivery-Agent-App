@@ -1,6 +1,6 @@
-# ahia_deliveryAgent
+# E-Commerce Delivery Boy App
 
-A new Flutter project.
+A Delivery Boy App built with Fluter and Firebase.
 
 ## Getting Started
 
